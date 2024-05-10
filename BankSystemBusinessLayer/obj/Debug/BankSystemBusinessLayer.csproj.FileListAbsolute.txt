@@ -1,0 +1,9 @@
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\bin\Debug\BankSystemBusinessLayer.dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\bin\Debug\BankSystemBusinessLayer.pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\bin\Debug\BankSystemDataAccessLayer.dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\bin\Debug\BankSystemDataAccessLayer.pdb
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.csproj.CopyComplete
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.dll
+C:\Users\Mohamed\Desktop\Programing advices\MyProjects\BankSystem\BankSystemBusinessLayer\obj\Debug\BankSystemBusinessLayer.pdb
